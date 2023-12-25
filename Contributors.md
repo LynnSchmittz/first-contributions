@@ -147,6 +147,7 @@
 - Utsav
 - [Levis Ngigi](https://github.com/LevisNgigi)  
 - Abhinav Gugulothu
+- Jack
 - [Ismail Akintunde](https://github.com/homoakin619)
 - [Taegan Snyder](https://github.com/taegansnyder)
 - [Sahil Nayak](https://github.com/ogsahil)
